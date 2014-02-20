@@ -1,4 +1,5 @@
 this is the test file content
+---> added in new_branch context
 here are the modifications
 further changes
 changes in the new_branch
