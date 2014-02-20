@@ -1,4 +1,4 @@
 this is the test file content
 here are the modifications
 further changes
-
+changes in the new_branch
