@@ -1,4 +1,7 @@
 this is the test file content
+---> added in new_branch context
 here are the modifications
 further changes
+----> added in master context
+----> re-added in master context
 changes in the new_branch
